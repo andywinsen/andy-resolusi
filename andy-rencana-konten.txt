@@ -1,0 +1,7 @@
+RENCANA KONTEN ANDY:
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview
+- Vlog
